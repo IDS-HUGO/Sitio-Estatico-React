@@ -1,0 +1,25 @@
+#home_section{
+    width: 80%;
+    height: 400px;
+    background-color: #baa68e;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+    text-align: center; 
+    padding: 20px;
+    margin-left: 10%;
+}
+
+#home_section img{
+
+    width: 25%;
+
+    justify-content: space-around;
+
+}
+
+
+
+
+

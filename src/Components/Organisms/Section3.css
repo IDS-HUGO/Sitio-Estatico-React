@@ -1,0 +1,7 @@
+#artista_seccion{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 80%;
+    background-color: #c37664;
+}

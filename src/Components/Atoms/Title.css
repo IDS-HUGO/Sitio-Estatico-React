@@ -1,0 +1,8 @@
+#titulo{
+    font-family: 'Roboto', sans-serif; /* Ejemplo de fuente para el título */
+    font-size: 2rem;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 10px;
+    text-align: center;
+}

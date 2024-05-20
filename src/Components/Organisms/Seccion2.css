@@ -1,0 +1,25 @@
+#tipos_seccion{
+    width: 80%;
+    background-color: #dfb0a6;
+}
+
+#title_tipos{
+    color: #ffffff;
+    font-family: 'Georgia', serif;
+    font-size: 3em;
+    font-weight: 700;
+    text-align: center;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+    background: linear-gradient(90deg, #00c6ff, #0072ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: transform 0.3s ease-in-out;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+
+#title_tipos:hover {
+    transform: scale(1.05);
+}
